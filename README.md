@@ -1,6 +1,8 @@
-# Legacy Bomberman-Style Game
+# Bomb Master
 
-Welcome to the Legacy Bomberman-Style Game repository! This repository contains the decompiled source code and executable files of a 2D game I created using Unity, inspired by the classic Bomberman.
+Welcome to the Bomb Master game repository! This repository contains the decompiled source code and executable files of a 2D game I created using Unity, inspired by the classic Bomberman.
+
+Legacy Bomberman-Style Game
 
 ## Background
 
